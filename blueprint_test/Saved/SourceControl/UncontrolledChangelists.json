@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/m_stylisedwater.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/AB/O9G295YYW0KAV2FY7A90SA.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/2H/ZEWCKHW9NFJ5Y7HGAN6J7Z.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/OP/0IOUEPLJKQSDPKUMX3VDXI.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/DI/Y3XWN9LGDQMT25FDMRYV4N.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QV/Q38J63KLG7B50AOSRD2L73.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/QT/6YSHBSZF8JD9Z56TPGLYAT.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NG/50DTL39WUMDNC8V01BN7R6.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/YX/4ZXKSRFLZCUQHREFVVCUBK.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/N3/RO9IYWSTAOHAGS3IXPNHX2.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/HP/Z1XSBU3EQB570LY1S8A7G7.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/R2/LT5D907EF7KGJKHFOS2TED.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WO/CYQYGIVMOUVVLHZNMQID90.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/IA_shoot.uasset",
+				"C:/Users/ainek/OneDrive/Documents/Mastered course/blueprint_test/Content/IM_game.uasset"
+			]
+		}
+	]
+}
